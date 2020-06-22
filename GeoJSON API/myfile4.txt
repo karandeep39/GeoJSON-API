@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "access_points" : [],
+         "address_components" : [
+            {
+               "long_name" : "Hauz Khas",
+               "short_name" : "Hauz Khas",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "IIT Campus",
+               "short_name" : "IIT Campus",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Delhi",
+               "short_name" : "South Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110016",
+               "short_name" : "110016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "IIT Campus, Hauz Khas, New Delhi, Delhi 110016, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.5449756,
+               "lng" : 77.19262839999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5463245802915,
+                  "lng" : 77.1939773802915
+               },
+               "southwest" : {
+                  "lat" : 28.5436266197085,
+                  "lng" : 77.19127941970849
+               }
+            }
+         },
+         "place_id" : "ChIJtV8FufYdDTkRwKMeayYLwYE",
+         "plus_code" : {
+            "compound_code" : "G5VV+X3 Hauz Khas, New Delhi, Delhi, India",
+            "global_code" : "7JWVG5VV+X3"
+         },
+         "types" : [ "establishment", "point_of_interest", "university" ]
+      }
+   ],
+   "status" : "OK"
+}
+
